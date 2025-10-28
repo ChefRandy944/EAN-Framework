@@ -5,9 +5,11 @@ The Eudaimonic Action Network - A Human-First Cognitive Framework
 
 ## A "Human-First" Framework for High-Performance Cognitive Work
 
-**Status:** Conceptual Framework & Logseq Implementation Guide
+**Status:** 
+    Conceptual Framework & Logseq Implementation Guide
 
-**TL;DR:** Most productivity systems are "cold" archives that force the "hot," volatile human brain to serve the tool. EAN reverses this. It's a "hot kitchen" built within Logseq, designed for operators who need to execute complex work in a high-flow state. It respects the "warmup cost" and "context volatility" of the human brain, making the digital tool a true cognitive partner.
+**TL;DR:** 
+    Most productivity systems are "cold" archives that force the "hot," volatile human brain to serve the tool. EAN reverses this. It's a "hot kitchen" built within Logseq, designed for operators who need to execute complex work in a high-flow state. It respects the "warmup cost" and "context volatility" of the human brain, making the digital tool a true cognitive partner.
 
 ## 1. The Problem: "Cold Tools" vs. "Hot Brains"
 
@@ -79,7 +81,7 @@ Ready to build your own "Hot Kitchen"?
 
 1. **Conceptual Understanding (The "Why"):**
     
-    - Start with the **[EAN Whiteboard Brainstorming Guide (`ean_whiteboard_guide.md`)]** to visually map the EAN concepts onto the human brain's structure.
+    - Start with **[Explination.md]** and **[MAPS.md] and use that to visually map the EAN concepts in **[EAN Whiteboard Brainstorming Guide (`ean_whiteboard_guide.md`)]**.
         
 2. **Practical Implementation (The "How"):**
     
@@ -88,9 +90,7 @@ Ready to build your own "Hot Kitchen"?
 
 ## 5. Philosophy & Further Discussion
 
-The EAN is more than a Logseq setup; it's a _philosophy_ for designing cognitive tools that are true partners to the human mind. It challenges the status quo of "productivity" and demands systems built for _operators_, not _archivists_.
-
-- We believe this "Human-First," state-aware approach is the future of cognitive tooling.
+The EAN is more than a Logseq setup; it's a _philosophy_, or practice, for designing cognitive tools that are true partners to the human mind. It challenges the status quo of "productivity" and demands systems built for _operators_, not _archivists_.
     
 - Join the discussion, share your experiences, and help refine the EAN framework in the **[Issues Tab / Discussions Tab]** of this repository.
     
@@ -107,5 +107,3 @@ This is an open exploration. Contributions are welcome:
     
 - Sharing your own experiences and adaptations.
     
-
-**(Please add License Information - e.g., MIT, Creative Commons)**
